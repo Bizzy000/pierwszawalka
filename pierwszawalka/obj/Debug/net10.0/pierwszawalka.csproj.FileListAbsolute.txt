@@ -1,0 +1,14 @@
+/Users/bizzy/Documents/vsc/pierwszawalka/bin/Debug/net10.0/pierwszawalka
+/Users/bizzy/Documents/vsc/pierwszawalka/bin/Debug/net10.0/pierwszawalka.deps.json
+/Users/bizzy/Documents/vsc/pierwszawalka/bin/Debug/net10.0/pierwszawalka.runtimeconfig.json
+/Users/bizzy/Documents/vsc/pierwszawalka/bin/Debug/net10.0/pierwszawalka.dll
+/Users/bizzy/Documents/vsc/pierwszawalka/bin/Debug/net10.0/pierwszawalka.pdb
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/pierwszawalka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/pierwszawalka.AssemblyInfoInputs.cache
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/pierwszawalka.AssemblyInfo.cs
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/pierwszawalka.csproj.CoreCompileInputs.cache
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/pierwszawalka.dll
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/refint/pierwszawalka.dll
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/pierwszawalka.pdb
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/pierwszawalka.genruntimeconfig.cache
+/Users/bizzy/Documents/vsc/pierwszawalka/obj/Debug/net10.0/ref/pierwszawalka.dll
