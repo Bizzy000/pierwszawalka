@@ -1,1 +1,3 @@
 # pierwszawalka
+
+do dokonczenia
